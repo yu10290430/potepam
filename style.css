@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-image: url("https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg");
+    background-size: cover;
+    position: relative;
+}
+header {
+    display: flex;
+    margin-left: 30px;
+}
+.logo img {
+    width: 185px;
+    padding-top:16px;
+}
+.menu{
+    margin:0 0 0 450px;
+    padding-top: 17px;
+}
+.menu a {
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 35px;
+    text-align: center;
+    font-family: arial black;
+    font-size: 12px;
+}
+.contents{
+    color:black;
+}
+.contact{
+    background-color: #ff8c00;
+    text-decoration: none;
+    color: white;
+    padding: 12px;
+    border-radius: 50px;
+    font-weight: bold;
+}
+
+.first-view {
+    margin: 50px 0 0 190px;
+}
+.first-view h1 {
+    font-family: sans-serif;
+}
+.center { 
+    padding-left:130px;
+}
+main h1{
+    line-height: 30px;
+    font-size: 38px;
+}
+.customer {
+    margin-top: 30px;
+}
+.customer a {
+    padding:20px 30px;
+}
+.document {
+    background-color: white;
+    color: black;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 15px;
+    border-width: 1px;
+   border-color: #dcdcdc;
+   border-style: solid;
+}
+.detail {
+   margin-top: 70px; 
+   font-size: 11px;
+   color: #c0c0c0;
+}
+.detail li {
+    list-style: none;
+}
+.orange {
+    background-color: #ff8c00;
+    background-size: cover;
+    height: 260px;
+}
+.explanation {
+    color: white;
+    font-size: 45px;
+    padding-top: 50px;
+}
+.inside {
+    color:white;
+}
+.content {
+    display: inline-block;
+    background-color: white;
+    color: #ff8c00;
+    text-decoration: none;
+    padding: 5px 80px ;
+    border-radius: 50px;
+    font-weight: bold;
+    position: absolute;
+    top: 720px;
+    right: 170px;
+    text-align: center;
+}
+
